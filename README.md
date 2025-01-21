@@ -14,3 +14,5 @@ Zuerst wird der Anhang der Mail (das Meldeformular) lokal auf dem Rechner gespei
 auf. Bei der Prüfung, für den das Meldeformular zugesandt wurde, wählt man den Link "Meldungen" aus. Auf der kommenden Seite wird nun der Button "neue Meldung importieren" aufgerufen. Danach fügt man den zuvor gespeicherten Meldeschein ein (Button "Datei auswählen") und klickt auf "UPLOAD".
 
 Der ausgewählte Meldeschein wird ausgelesen und die Daten werden eingetragen. Sollte der Meldeschein nicht zu dieser Prüfung gehören, werden trotzdem die Daten übernommen, man erhält jedoch einen Hinweis darauf, dass dieser Meldeschein nicht zu dieser Prüfung gehört.
+
+[Top](#inhaltsverzeichnis)
