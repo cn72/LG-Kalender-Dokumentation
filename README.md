@@ -8,6 +8,9 @@ Anhang Beispiele
 
 ## Meldung hinzufügen
 
+> [!NOTE]
+> Die Übernahme der Meldedaten aus einem Formular funktioniert nur, wenn das Meldeformular vom Terminkalender heruntergeladen wird. Wird das Meldeformular aus einer anderen Quelle heruntergeladen und ausgefüllt, können diese Daten nicht übernommen werden !!!
+
 Wird ein Meldeformular ausgefüllt und per E-mail zugesandt, dann kann dieses wie folgt einer Prüfung zugeordnet werden.
 
 Zuerst wird der Anhang der Mail (das Meldeformular) lokal auf dem Rechner gespeichert. Nach dem Anmelden bei WordPress ruft man die Seite des Terminkalenders
