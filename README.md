@@ -8,7 +8,7 @@ Anhang Beispiele
 
 ## Meldung hinzufügen
 
-Wird ein Meldeformular ausgefüllt per E-mail zugesandt, dann kann dieses wie folgt einer Prüfung zugeordnet werden.
+Wird ein Meldeformular ausgefüllt und per E-mail zugesandt, dann kann dieses wie folgt einer Prüfung zugeordnet werden.
 
 Zuerst wird der Anhang der Mail (das Meldeformular) lokal auf dem Rechner gespeichert. Nach dem Anmelden bei WordPress ruft man die Seite des Terminkalenders
 auf. Bei der Prüfung, für den das Meldeformular zugesandt wurde, wählt man den Link "Meldungen" aus. Auf der kommenden Seite wird nun der Button "neue Meldung importieren" aufgerufen. Danach fügt man den zuvor gespeicherten Meldeschein ein (Button "Datei auswählen") und klickt auf "UPLOAD".
