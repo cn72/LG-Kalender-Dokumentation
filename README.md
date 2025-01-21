@@ -1,12 +1,12 @@
 # PRTCD-LG-Kalender
 WordPress Plugin LG-Kalender des PRTCD
 
-##Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
 Anhang Beispiele
 - [Meldung per PDF-Formular einer Prüfung zufügen](#meldung-hinzufügen)
 
-##Meldung hinzufügen
+## Meldung hinzufügen
 
 Wird ein Meldeformular ausgefüllt per E-mail zugesandt, dann kann dieses wie folgt einer Prüfung zugeordnet werden.
 
