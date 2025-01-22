@@ -19,11 +19,12 @@ WordPress Plugin LG-Kalender des PRTCD
     - Design
     - Rechte verwalten
 5. Richterverwaltung
-    - [Adressen verwalten](#adressen-verwalten)
+    - [Tabelle Adressen](#tabelle-adressen)
+    - [Adresse bearbeiten](#tabelle-adressen)
+    - [Adresse neu anlegen / löschen](#adresse-neu-anlegen--löschen)
     - Richternummer
-    - Richterliste drucken
 
-## Adressen verwalten
+## Tabelle Adressen
 
 > [!NOTE]
 > - man muss bei WordPress angemeldet sein
@@ -31,12 +32,32 @@ WordPress Plugin LG-Kalender des PRTCD
 > - um Richternummern bearbeiten zu können, muss der Benutzer die entsprechenden Rechte haben (siehe Admin-Bereich)
 
 Wenn die Seite mit dem Terminkalender aufgerufen wird, steht über der Zeile mit der Jahresauswahl der Verweis zur Richterverwaltung.
-Alternativ kann natürlich auch über ein eigenes Menü zur Seite der Richterverwaltung verlinkt werden.<br>
+Alternativ kann natürlich über ein eigenes Menü zur Seite der Richterverwaltung verlinkt werden.<br>
 Auf der Seite der Richterverwaltung werden die Richter alphabetisch in einer Tabelle aufgelistet. Am Ende einer jeden Zeile 
 ist eine Makierung, welches Fach gerichtet werden darf.
 > [!Note]
 > Diese Makierung ist wichtig, da z.Bsp. bei der Richterzuordnung zu einer Prüfung nur die Richter ausgewählt werden können, die auch das richtige Fach richten dürfen (Baurichter bei JP z.Bsp.)
-Jeder vorhandene Eintrag kann über den Button "EDIT" bearbeitet werden.
+
+Jeder vorhandene Eintrag kann über den Button "EDIT" bearbeitet werden. Am Ende der Tabelle gibt es die Möglichkeit, eine neue Adresse anzulegen (Button "NEU ANLEGEN") oder die Tabelle als PDF herunterzuladen (Button "DRUCKEN").
+
+[Top](#inhaltsverzeichnis)
+
+## Adresse bearbeiten
+
+> [!NOTE]
+> - man muss bei WordPress angemeldet sein
+> - um Adressen bearbeiten zu können, muss der Benutzer die entsprechenden Rechte haben (siehe Admin-Bereich)
+
+[Top](#inhaltsverzeichnis)
+
+## Adresse neu anlegen / löschen
+
+> [!NOTE]
+> - man muss bei WordPress angemeldet sein
+> - um Adressen anlegen/löschen zu können, muss der Benutzer die entsprechenden Rechte haben (siehe Admin-Bereich)
+
+[Top](#inhaltsverzeichnis)
+
 
 ## Anhang Beispiele
 - [Meldung per PDF-Formular einer Prüfung zufügen](#meldung-hinzufügen)
