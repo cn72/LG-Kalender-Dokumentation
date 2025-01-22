@@ -19,14 +19,29 @@ WordPress Plugin LG-Kalender des PRTCD
     - Design
     - Rechte verwalten
 5. Richterverwaltung
-    - Adressen verwalten
+    - [Adressen verwalten](#adressen-verwalten)
     - Richternummer
     - Richterliste drucken
 
-Anhang Beispiele
+## Adressen verwalten
+
+> [!NOTE]
+> - man muss bei WordPress angemeldet sein
+> - um Adressen bearbeiten zu können, muss der Benutzer die entsprechenden Rechte haben (siehe Admin-Bereich)
+> - um Richternummern bearbeiten zu können, muss der Benutzer die entsprechenden Rechte haben (siehe Admin-Bereich)
+
+Wenn die Seite mit dem Terminkalender aufgerufen wird, steht über der Zeile mit der Jahresauswahl der Verweis zur Richterverwaltung.
+Alternativ kann natürlich auch über ein eigenes Menü zur Seite der Richterverwaltung verlinkt werden.<br>
+Auf der Seite der Richterverwaltung werden die Richter alphabetisch in einer Tabelle aufgelistet. Am Ende einer jeden Zeile 
+ist eine Makierung, welches Fach gerichtet werden darf.
+> [!Note]
+> Diese Makierung ist wichtig, da z.Bsp. bei der Richterzuordnung zu einer Prüfung nur die Richter ausgewählt werden können, die auch das richtige Fach richten dürfen (Baurichter bei JP z.Bsp.)
+Jeder vorhandene Eintrag kann über den Button "EDIT" bearbeitet werden.
+
+## Anhang Beispiele
 - [Meldung per PDF-Formular einer Prüfung zufügen](#meldung-hinzufügen)
 
-## Meldung hinzufügen
+### Meldung hinzufügen
 
 > [!NOTE]
 > Die Übernahme der Meldedaten aus einem Formular funktioniert nur, wenn das Meldeformular vom Terminkalender heruntergeladen wird. Wird das Meldeformular aus einer anderen Quelle heruntergeladen und ausgefüllt, können diese Daten nicht übernommen werden !!!
