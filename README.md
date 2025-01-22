@@ -2,6 +2,26 @@
 WordPress Plugin LG-Kalender des PRTCD
 
 ## Inhaltsverzeichnis
+1. Übersicht
+    - Einführung
+    - Lizenz
+2. Installation
+    - Download
+    - Plugin Upload WP
+    - wichtige WorPress Einstellungen
+    - weitere Plugins
+    - Updates
+3. Shortcodes
+    - Verwendung von Shortcodes
+4. Admin Bereich
+    - Einstellungen
+    - Formulare
+    - Design
+    - Rechte verwalten
+5. Richterverwaltung
+    - Adressen verwalten
+    - Richternummer
+    - Richterliste drucken
 
 Anhang Beispiele
 - [Meldung per PDF-Formular einer Prüfung zufügen](#meldung-hinzufügen)
